@@ -44,4 +44,4 @@ This package ports the checked-in Python implementation, including its handling 
 
 ## License
 
-MIT - see [LICENSE](./LICENSE).
+Apache-2.0 - see [LICENSE](./LICENSE). The upstream Python implementation by Derek Anderson remains under its original MIT terms; see [NOTICE](./NOTICE).
